@@ -3,6 +3,10 @@
 A to-do list app built with React + Vite, going past the base assignment spec
 with drag-to-reorder, filters, inline editing, and persistence.
 
+## Repository
+
+Source code: https://github.com/shivanshsingh05102000/todo.git
+
 ## Features
 
 - Add, edit, delete, and complete tasks
